@@ -21,3 +21,8 @@ SQL querying, data cleaning, data transformation, KPI calculation, data modeling
 
 ## Project Files
 Project files and dashboard screenshots will be added here.
+## Project Files
+
+- [SQL Analysis Queries](Project_sql.sql)
+- [Power BI Dashboard (.pbix)](Final%20e-commerce%20dashboard.pbix)
+- [Dashboard Screenshot](Dashboard%20Screenshot.png)
